@@ -1,0 +1,9 @@
+﻿  uic Fifa20Editor.ui
+  rcc Fifa20Editor.qrc
+  moc Fifa20Editor.h
+   RCC: Warning: No resources in 'E:\Qt_Projects\Fifa20Editor\Fifa20Editor.qrc'.
+  Fifa20Editor.cpp
+  main.cpp
+  qrc_Fifa20Editor.cpp
+  moc_Fifa20Editor.cpp
+  Fifa20Editor.vcxproj -> E:\Qt_Projects\Fifa20Editor\x64\Debug\Fifa20Editor.exe
